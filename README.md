@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning concepts of data analysis
 - 📫 You can contact me on linkedin www.linkedin.com/in/shamit-bhardwaj-b1b4a417a
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
